@@ -8,7 +8,7 @@ Mở `index.html` trực tiếp, hoặc phục vụ thư mục gốc bằng stat
 
 Repo: https://github.com/linhhvd/AI-POWERED-WORKSPACE
 Pages: https://linhhvd.github.io/AI-POWERED-WORKSPACE/ (nhánh `main`, thư mục gốc)
-Tên miền: `aiworkspace.io.vn` — file `CNAME`. DNS tại Mat Bao (`ns1.matbao.vn`, `ns2.matbao.vn`). Apex dùng 4 bản ghi A tới IP GitHub Pages, không CNAME ở `@`.
+Tên miền: `aiworkspace.io.vn` — file `CNAME`. DNS Mat Bao đã có 4 bản ghi A và CNAME `www`. HTTP mở được; chứng chỉ HTTPS do GitHub cấp sau.
 
 ## Cấu trúc
 
